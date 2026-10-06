@@ -1,0 +1,3 @@
+com.raghupathi.banoth.status.motivator.quote.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

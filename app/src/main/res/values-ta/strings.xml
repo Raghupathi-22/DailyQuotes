@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daily Quotes</string>
+    <string name="select_language">Select your language</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="tamil">Tamil</string>
+    <string name="telugu">Telugu</string>
+</resources>

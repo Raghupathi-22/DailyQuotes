@@ -1,0 +1,37 @@
+{
+  "morning": [
+    "Rise up, start fresh, see the bright opportunity in each new day.",
+    "Every morning brings new potential, but only if you make the most of it.",
+    "Good morning! Remember: each day is a fresh start."
+  ],
+  "night": [
+    "The night is always darkest before the dawn.",
+    "Let go of worries and welcome sweet dreams.",
+    "Good night – tomorrow is another chance to shine."
+  ],
+  "evening": [
+    "Evenings are for reflection and gratitude.",
+    "The sun sets to rise again tomorrow.",
+    "Good evening – relax, refresh, recharge."
+  ],
+  "motivation": [
+    "Push yourself, because no one else will do it for you.",
+    "Dream it. Wish it. Do it.",
+    "Hard work beats talent when talent doesn’t work hard."
+  ],
+  "festival": [
+    "Celebrate life like a festival every day.",
+    "Festivals are reminders of togetherness and joy.",
+    "Happiness is multiplied when shared on festivals."
+  ],
+  "love": [
+    "Love is not about how many days, months, or years you’ve been together. It’s about how much you love each other every day.",
+    "In love, distance means so little when someone means so much.",
+    "Love is the only force capable of transforming an enemy into a friend."
+  ],
+  "breakup": [
+    "Sometimes, goodbyes are blessings in disguise.",
+    "Don’t cry because it’s over, smile because it happened.",
+    "A breakup is not the end of your story, but the start of a new chapter."
+  ]
+}

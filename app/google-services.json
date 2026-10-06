@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745872801782",
+    "project_id": "quotes-a2163",
+    "storage_bucket": "quotes-a2163.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745872801782:android:c6e3052464ea19715211d7",
+        "android_client_info": {
+          "package_name": "com.raghupathi.banoth.status.motivator.quote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtlEWCgoj52s4067GqAoEYbfM-AkweDQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

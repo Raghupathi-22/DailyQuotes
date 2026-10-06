@@ -1,0 +1,25 @@
+<resources>
+    <color name="purple_200">#C9C5FF</color>
+    <color name="purple_500">#4454A3</color>
+    <color name="purple_700">#26346F</color>
+    <color name="teal_200">#8EE1D0</color>
+    <color name="teal_700">#126B62</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="my_icon_red">#B3261E</color>
+    <color name="grad_start">#26346F</color>
+    <color name="grad_end">#6577CC</color>
+    <color name="quote_background_blue">#E3F2FD</color>
+    <color name="quote_background_green">#E8F5E9</color>
+    <color name="quote_background_yellow">#FFFDE7</color>   <!-- yellow-ish -->
+
+    <color name="quote_bg_pastel_blue">#AEC6CF</color>
+    <color name="quote_bg_pastel_green">#B3E2CD</color>
+    <color name="quote_bg_pastel_yellow">#FFF9C4</color>
+    <color name="quote_bg_pastel_pink">#FFCDD2</color>
+    <color name="quote_bg_pastel_purple">#D1C4E9</color>
+    <color name="quote_bg_light_teal">#B2DFDB</color>
+
+    <color name="quote_text_dark">#212121</color>
+    <color name="quote_text_light">#FFFFFF</color>
+</resources>

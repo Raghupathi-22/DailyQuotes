@@ -1,0 +1,12 @@
+{
+  "morning": ["Good Morning! Start fresh.", "Rise and shine!"],
+  "night": ["Good night, sleep well.", "Stars are watching over you."],
+  "evening": ["Relax, it’s evening time.", "Sunsets are proof of endings too."],
+  "motivation": ["Push harder than yesterday.", "Success starts with self-discipline."],
+  "festival": ["Celebrate joyfully!", "Festivals bring us together."],
+  "education": ["Knowledge is power.", "Learning never ends."],
+  "love": ["Love is the greatest gift.", "Where there is love, there is life."],
+  "breakup": ["Let go to grow.", "Pain is temporary, growth is permanent."],
+  "stress": ["Breathe. You’re stronger than stress.", "Calm mind, strong soul."],
+  "relax": ["Take a deep breath.", "Rest is productive too."]
+}

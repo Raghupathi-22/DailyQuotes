@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Allow both HTTPS and fallback cleartext for your APIs -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">quotes-free-api.vercel.app</domain>
+        <domain includeSubdomains="true">api.quotable.io</domain>
+        <domain includeSubdomains="true">hindi-quotes.vercel.app</domain>
+        <domain includeSubdomains="true">telugu-quotes.vercel.app</domain>
+        <domain includeSubdomains="true">tamil-quotes.vercel.app</domain>
+    </domain-config>
+</network-security-config>

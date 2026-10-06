@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#000000</color>
+    <color name="grad_end">#FFC107</color>
+    <color name="grad_start">#FF5722</color>
+    <color name="my_icon_red">#FF0000</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#FF5722</color>
+    <color name="purple_700">#000000</color>
+    <color name="quote_background_blue">#E3F2FD</color>
+    <color name="quote_background_green">#E8F5E9</color>
+    <color name="quote_background_yellow">#FFFDE7</color>
+    <color name="quote_bg_light_teal">#B2DFDB</color>
+    <color name="quote_bg_pastel_blue">#AEC6CF</color>
+    <color name="quote_bg_pastel_green">#B3E2CD</color>
+    <color name="quote_bg_pastel_pink">#FFCDD2</color>
+    <color name="quote_bg_pastel_purple">#D1C4E9</color>
+    <color name="quote_bg_pastel_yellow">#FFF9C4</color>
+    <color name="quote_text_dark">#212121</color>
+    <color name="quote_text_light">#FFFFFF</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Daily Quotes</string>
+    <string name="back">Back</string>
+    <string name="category_breakup">Breakup</string>
+    <string name="category_breakup_desc">Healing and heartbreak support</string>
+    <string name="category_education">Education</string>
+    <string name="category_education_desc">Learning and growth quotes</string>
+    <string name="category_evening">Good Evening</string>
+    <string name="category_evening_desc">Warm evening reflections</string>
+    <string name="category_festival">Festival</string>
+    <string name="category_festival_desc">Festival and celebration quotes</string>
+    <string name="category_love">Love</string>
+    <string name="category_love_desc">Thoughtful love quotes</string>
+    <string name="category_morning">Good Morning</string>
+    <string name="category_morning_desc">Fresh sunrise and peaceful morning quotes</string>
+    <string name="category_motivation">Motivation</string>
+    <string name="category_motivation_desc">Powerful motivation for progress</string>
+    <string name="category_night">Good Night</string>
+    <string name="category_night_desc">Quiet night inspiration</string>
+    <string name="category_relax">Relax</string>
+    <string name="category_relax_desc">Peaceful relaxation quotes</string>
+    <string name="category_stress_relief">Stress Relief</string>
+    <string name="category_stress_relief_desc">Calm and stress relief quotes</string>
+    <string name="copy">Copy</string>
+    <string name="english">English</string>
+    <string name="explore_by_mood">Explore by Mood</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_quotes">Favorite Quotes</string>
+    <string name="favorites_empty">Your favorite quotes will appear here.</string>
+    <string name="gcm_defaultSenderId" translatable="false">745872801782</string>
+    <string name="google_api_key" translatable="false">AIzaSyBtlEWCgoj52s4067GqAoEYbfM-AkweDQE</string>
+    <string name="google_app_id" translatable="false">1:745872801782:android:c6e3052464ea19715211d7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBtlEWCgoj52s4067GqAoEYbfM-AkweDQE</string>
+    <string name="google_storage_bucket" translatable="false">quotes-a2163.firebasestorage.app</string>
+    <string name="greeting">Welcome back</string>
+    <string name="hindi">Hindi</string>
+    <string name="mood_icon">Mood icon</string>
+    <string name="next_quote">Next Quote</string>
+    <string name="project_id" translatable="false">quotes-a2163</string>
+    <string name="quote_of_the_day">Quote of the Day</string>
+    <string name="read_todays_quote">Read the Daily Quote</string>
+    <string name="remove_favorite">Remove favorite</string>
+    <string name="select_language">Select your language</string>
+    <string name="share">Share</string>
+    <string name="tamil">Tamil</string>
+    <string name="telugu">Telugu</string>
+    <style name="Theme.DailyMotivator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/purple_700</item>
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+com.raghupathi.banoth.status.motivator.quote.test.app-jetified-core-1.5.0-0 C:\Users\Raghupathi\.gradle\caches\9.0-milestone-1\transforms\6bbef0efbae81187a2eaff4bb1eae70d\transformed\jetified-core-1.5.0\res
+com.raghupathi.banoth.status.motivator.quote.test.app-jetified-annotation-experimental-1.4.0-1 C:\Users\Raghupathi\.gradle\caches\9.0-milestone-1\transforms\9712ad9e5c743a9174968b6dfc12710b\transformed\jetified-annotation-experimental-1.4.0\res
+com.raghupathi.banoth.status.motivator.quote.test.app-androidTest-2 C:\app\application\v4\DailyQuotes_fixed_full_fixed3\app\build\generated\res\resValues\androidTest\debug
+com.raghupathi.banoth.status.motivator.quote.test.app-mergeDebugAndroidTestResources-3 C:\app\application\v4\DailyQuotes_fixed_full_fixed3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.raghupathi.banoth.status.motivator.quote.test.app-mergeDebugAndroidTestResources-4 C:\app\application\v4\DailyQuotes_fixed_full_fixed3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.raghupathi.banoth.status.motivator.quote.test.app-debugAndroidTest-5 C:\app\application\v4\DailyQuotes_fixed_full_fixed3\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

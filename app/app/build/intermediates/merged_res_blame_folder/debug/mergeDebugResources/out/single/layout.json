@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-mergeDebugResources-43:\\layout\\activity_favorites.xml",
+        "source": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-main-46:\\layout\\activity_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-mergeDebugResources-43:\\layout\\activity_quote.xml",
+        "source": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-main-46:\\layout\\activity_quote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-mergeDebugResources-43:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-main-46:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-mergeDebugResources-43:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-mergeDebugResources-43:\\layout\\item_quote.xml",
+        "source": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-main-46:\\layout\\item_quote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-mergeDebugResources-43:\\layout\\item_favorite_quote.xml",
+        "source": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-main-46:\\layout\\item_favorite_quote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-mergeDebugResources-43:\\layout\\item_favorite.xml",
+        "source": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-main-46:\\layout\\item_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-mergeDebugResources-43:\\layout\\item_mood.xml",
+        "source": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-main-46:\\layout\\item_mood.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-mergeDebugResources-43:\\layout\\activity_language_select.xml",
+        "source": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-main-46:\\layout\\activity_language_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-mergeDebugResources-43:\\layout\\quote_item.xml",
+        "source": "C:\\Users\\Raghupathi\\.gradle\\daemon\\9.0-milestone-1\\com.raghupathi.banoth.status.motivator.quote.app-main-46:\\layout\\quote_item.xml"
+    },
+    {
+        "merged": "com.raghupathi.banoth.status.motivator.quote.app-mergeDebugResources-43:/layout/item_favorite.xml",
+        "source": "com.raghupathi.banoth.status.motivator.quote.app-main-46:/layout/item_favorite.xml"
+    }
+]

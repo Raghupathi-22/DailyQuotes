@@ -1,0 +1,1 @@
+Original file DailyQuotes_full_project/.gradle/9.0-milestone-1/executionHistory/executionHistory.bin skipped due to large size (9256636 bytes). Replace with your high-res resource in project.
