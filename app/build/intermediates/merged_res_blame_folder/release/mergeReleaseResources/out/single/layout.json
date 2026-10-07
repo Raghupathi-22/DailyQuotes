@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.raghupathi.banoth.status.motivator.quote.app-mergeReleaseResources-37:/layout/activity_favorites.xml",
+        "source": "com.raghupathi.banoth.status.motivator.quote.app-main-40:/layout/activity_favorites.xml"
+    },
+    {
+        "merged": "com.raghupathi.banoth.status.motivator.quote.app-mergeReleaseResources-37:/layout/activity_quote.xml",
+        "source": "com.raghupathi.banoth.status.motivator.quote.app-main-40:/layout/activity_quote.xml"
+    },
+    {
+        "merged": "com.raghupathi.banoth.status.motivator.quote.app-mergeReleaseResources-37:/layout/activity_splash.xml",
+        "source": "com.raghupathi.banoth.status.motivator.quote.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.raghupathi.banoth.status.motivator.quote.app-mergeReleaseResources-37:/layout/activity_main.xml",
+        "source": "com.raghupathi.banoth.status.motivator.quote.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.raghupathi.banoth.status.motivator.quote.app-mergeReleaseResources-37:/layout/item_favorite.xml",
+        "source": "com.raghupathi.banoth.status.motivator.quote.app-main-40:/layout/item_favorite.xml"
+    },
+    {
+        "merged": "com.raghupathi.banoth.status.motivator.quote.app-mergeReleaseResources-37:/layout/item_mood.xml",
+        "source": "com.raghupathi.banoth.status.motivator.quote.app-main-40:/layout/item_mood.xml"
+    },
+    {
+        "merged": "com.raghupathi.banoth.status.motivator.quote.app-mergeReleaseResources-37:/layout/activity_language_select.xml",
+        "source": "com.raghupathi.banoth.status.motivator.quote.app-main-40:/layout/activity_language_select.xml"
+    }
+]

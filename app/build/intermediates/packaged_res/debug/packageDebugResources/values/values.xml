@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#000000</color>
+    <color name="grad_end">#6577CC</color>
+    <color name="grad_start">#26346F</color>
+    <color name="my_icon_red">#B3261E</color>
+    <color name="purple_200">#C9C5FF</color>
+    <color name="purple_500">#4454A3</color>
+    <color name="purple_700">#26346F</color>
+    <color name="quote_background_blue">#E3F2FD</color>
+    <color name="quote_background_green">#E8F5E9</color>
+    <color name="quote_background_yellow">#FFFDE7</color>
+    <color name="quote_bg_light_teal">#B2DFDB</color>
+    <color name="quote_bg_pastel_blue">#AEC6CF</color>
+    <color name="quote_bg_pastel_green">#B3E2CD</color>
+    <color name="quote_bg_pastel_pink">#FFCDD2</color>
+    <color name="quote_bg_pastel_purple">#D1C4E9</color>
+    <color name="quote_bg_pastel_yellow">#FFF9C4</color>
+    <color name="quote_text_dark">#212121</color>
+    <color name="quote_text_light">#FFFFFF</color>
+    <color name="teal_200">#8EE1D0</color>
+    <color name="teal_700">#126B62</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Daily Quotes</string>
+    <string name="back">Back</string>
+    <string name="category_breakup">Breakup</string>
+    <string name="category_breakup_desc">Healing and heartbreak support</string>
+    <string name="category_education">Education</string>
+    <string name="category_education_desc">Learning and growth quotes</string>
+    <string name="category_evening">Good Evening</string>
+    <string name="category_evening_desc">Warm evening reflections</string>
+    <string name="category_festival">Festival</string>
+    <string name="category_festival_desc">Festival and celebration quotes</string>
+    <string name="category_love">Love</string>
+    <string name="category_love_desc">Thoughtful love quotes</string>
+    <string name="category_morning">Good Morning</string>
+    <string name="category_morning_desc">Fresh sunrise and peaceful morning quotes</string>
+    <string name="category_motivation">Motivation</string>
+    <string name="category_motivation_desc">Powerful motivation for progress</string>
+    <string name="category_night">Good Night</string>
+    <string name="category_night_desc">Quiet night inspiration</string>
+    <string name="category_relax">Relax</string>
+    <string name="category_relax_desc">Peaceful relaxation quotes</string>
+    <string name="category_stress_relief">Stress Relief</string>
+    <string name="category_stress_relief_desc">Calm and stress relief quotes</string>
+    <string name="check_internet_connection">Please check your Internet connection.</string>
+    <string name="copy">Copy</string>
+    <string name="english">English</string>
+    <string name="explore_by_mood">Explore by Mood</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_quotes">Favorite Quotes</string>
+    <string name="favorites_empty">Your favorite quotes will appear here.\nSave quotes you want to come back to.</string>
+    <string name="greeting">Welcome back</string>
+    <string name="hindi">Hindi</string>
+    <string name="loading_quotes">Loading quotes…</string>
+    <string name="mood_icon">Mood icon</string>
+    <string name="new_cycle_notice">You have seen every quote here. Starting a new round.</string>
+    <string name="next_quote">Next Quote</string>
+    <string name="no_quotes_available">No quotes are available for this category yet.</string>
+    <string name="notification_channel_name">Daily quotes</string>
+    <string name="offline_quotes_notice">Offline: showing saved quotes for this category.</string>
+    <string name="quote_of_the_day">Quote of the Day</string>
+    <string name="read_todays_quote">Read the Daily Quote</string>
+    <string name="refreshing_quotes">Refreshing quotes…</string>
+    <string name="remove_favorite">Remove favorite</string>
+    <string name="retry">Retry</string>
+    <string name="select_language">Select your language</string>
+    <string name="share">Share</string>
+    <string name="share_image">Share image</string>
+    <string name="share_image_unavailable">Unable to create the quote image.</string>
+    <string name="tamil">Tamil</string>
+    <string name="telugu">Telugu</string>
+    <string name="unable_to_load_quotes">Unable to load quotes</string>
+    <style name="Theme.DailyMotivator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorSurface</item>
+        <item name="android:navigationBarColor">?attr/colorSurface</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="materialButtonStyle">@style/Widget.DailyQuotes.Button</item>
+    </style>
+    <style name="Widget.DailyQuotes.Button" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">20dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="Widget.DailyQuotes.IconButton" parent="Widget.MaterialComponents.Button.Icon">
+        <item name="cornerRadius">24dp</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconPadding">0dp</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+</resources>

@@ -22,6 +22,13 @@
     <string name="no_quotes_available">No quotes are available for this category yet.</string>
     <string name="remove_favorite">Remove favorite</string>
     <string name="next_quote">Next Quote</string>
+    <string name="loading_quotes">Loading quotes…</string>
+    <string name="refreshing_quotes">Refreshing quotes…</string>
+    <string name="unable_to_load_quotes">Unable to load quotes</string>
+    <string name="check_internet_connection">Please check your Internet connection.</string>
+    <string name="retry">Retry</string>
+    <string name="offline_quotes_notice">Offline: showing saved quotes for this category.</string>
+    <string name="new_cycle_notice">You have seen every quote here. Starting a new round.</string>
     <string name="category_morning">Good Morning</string>
     <string name="category_evening">Good Evening</string>
     <string name="category_night">Good Night</string>

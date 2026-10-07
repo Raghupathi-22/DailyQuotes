@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.raghupathi.banoth.status.motivator.quote.QuoteSessionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-06T12:48:15.416Z" hostname="DESKTOP-R65B6OU" time="0.119">
+  <properties/>
+  <testcase name="nextWalksEveryQuoteExactlyOnceThenStops" classname="com.raghupathi.banoth.status.motivator.quote.QuoteSessionTest" time="0.017"/>
+  <testcase name="newCycleNeverStartsWithThePreviousQuote" classname="com.raghupathi.banoth.status.motivator.quote.QuoteSessionTest" time="0.01"/>
+  <testcase name="parsesRealApiResponse" classname="com.raghupathi.banoth.status.motivator.quote.QuoteSessionTest" time="0.041"/>
+  <testcase name="stableIdIsDeterministicAndScopedToCategoryAndLanguage" classname="com.raghupathi.banoth.status.motivator.quote.QuoteSessionTest" time="0.041"/>
+  <testcase name="emptySessionHasNoQuote" classname="com.raghupathi.banoth.status.motivator.quote.QuoteSessionTest" time="0.001"/>
+  <testcase name="duplicatesDifferingOnlyByCaseWhitespaceOrPunctuationAreRemoved" classname="com.raghupathi.banoth.status.motivator.quote.QuoteSessionTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

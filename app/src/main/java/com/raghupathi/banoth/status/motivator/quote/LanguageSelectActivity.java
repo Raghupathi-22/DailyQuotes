@@ -2,7 +2,6 @@ package com.raghupathi.banoth.status.motivator.quote;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.preference.PreferenceManager;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -18,9 +17,8 @@ public class LanguageSelectActivity extends AppCompatActivity {
     }
 
     private void selectLanguage(String language) {
-        PreferenceManager.getDefaultSharedPreferences(this).edit()
-                .putString(QuoteRepository.PREF_LANGUAGE, language)
-                .apply();
+        // Goes through the repository so cached sessions of the previous language are invalidated.
+        QuoteRepository.getInstance(this).setLanguage(language);
         startActivity(new Intent(this, MainActivity.class));
         finish();
     }
